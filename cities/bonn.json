@@ -40,7 +40,7 @@
 			"properties": {
 				"title": "Ökomarkt",
 				"location": "Bonn Martinplatz",
-				"opening_hours": "We 8:00-14:00 ; Sa 8:00-14:00"
+				"opening_hours": "We 08:00-14:00 ; Sa 08:00-14:00"
 			},
 			"type": "Feature"
 		}, {
@@ -54,7 +54,7 @@
 			"properties": {
 				"title": "Wochenmarkt",
 				"location": "Bad Godesberg Moltkeplatz",
-				"opening_hours": "Tu 8:00-13:00 ; Th 8:00-13:00 ; Sa 8:00-14:00"
+				"opening_hours": "Tu 08:00-13:00 ; Th 08:00-13:00 ; Sa 08:00-14:00"
 			},
 			"type": "Feature"
 		}, {
