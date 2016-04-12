@@ -36,6 +36,7 @@ A small visualization of the weekly markets in different cities. Available at: h
 |City name|Data source|
 |:---|:---|
 |[Berlin][berlin-wikipedia]|[City of Berlin][berlin-markets]|
+|[Bonn][bonn-wikipedia]|[City of Bonn][bonn-markets]|
 |[Erlangen][erlangen-wikipedia]|[City of Erlangen][erlangen-markets]|
 |[Karlsruhe][karlsruhe-wikipedia]|[City of Karlsruhe][karlsruhe-markets]|
 |[Köln][koeln-wikipedia]|[City of Köln][koeln-markets]|
@@ -68,6 +69,8 @@ Tests can be run using [npm][npm]:
 
 [berlin-wikipedia]: https://en.wikipedia.org/wiki/Berlin
 [berlin-markets]: http://daten.berlin.de/datensaetze/wochen-und-tr%C3%B6delm%C3%A4rkte
+[bonn-wikipedia]: https://en.wikipedia.org/wiki/Bonn
+[bonn-markets]: http://opendata.bonn.de/dataset/veranstaltungskalender-komplett%C3%BCbersicht
 [erlangen-wikipedia]: https://en.wikipedia.org/wiki/Erlangen
 [erlangen-markets]: http://www.erlangen.de
 [koeln-wikipedia]: https://en.wikipedia.org/wiki/Cologne
